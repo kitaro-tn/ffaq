@@ -6,3 +6,9 @@ target
 /.project
 /.settings
 /RUNNING_PID
+/bin/
+*.swp
+*.swo
+.cache*
+tmp
+.DS_Store
